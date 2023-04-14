@@ -87,7 +87,7 @@ Model2 is Default because of its high accuracy and robustness.
 ## Authors
 
 - [@dipitvasdev](https://www.github.com/dipitvasdev)
-- [@palakkeni5] (https://github.com/palakkeni5)
+- [@palakkeni5](https://github.com/palakkeni5)
 
 
 ## Acknowledgements
