@@ -1,7 +1,7 @@
 
 # Modified ResNet architecture on CIFAR 10 with less than 5 million parameters
 
-In this project, we aimed to design a modified ResNet architecture for the CIFAR10 image classification dataset with no more than 5 million parameters. We utilized PyTorch to implement the ResNet architecture, and our modified ResNet achieved an accuracy of 93\%  on the test set. Our methodology involved experimenting with different ResNet architectures and hyperparameters, such as the number of layers and blocks, and evaluating their performance on the CIFAR10 dataset. We found that modifying the original ResNet18 architecture to include 4 layers with respective block size of 2, 1, 1, 1 resulted in the highest test accuracy.
+In this project, we aimed to design a modified ResNet architecture for the CIFAR10 image classification dataset with no more than 5 million parameters. We utilized PyTorch to implement the ResNet architecture, and our modified ResNet achieved an accuracy of 93%  on the test set. Our methodology involved experimenting with different ResNet architectures and hyperparameters, such as the number of layers and blocks, and evaluating their performance on the CIFAR10 dataset. We found that modifying the original ResNet18 architecture to include 4 layers with respective block size of 2, 1, 1, 1 resulted in the highest test accuracy.
 
 
 ## Models Considered 
@@ -87,4 +87,12 @@ Model2 is Default because of its high accuracy and robustness.
 ## Authors
 
 - [@dipitvasdev](https://www.github.com/dipitvasdev)
+- [@palakkeni5] (https://github.com/palakkeni5)
+
+
+## Acknowledgements
+
+ - [How to import a Python module given the full path?](https://www.geeksforgeeks.org/how-to-import-a-python-module-given-the-full-path/)
+ - [PyTorch Imagenet](https://github.com/sanghoon/pytorch_imagenet/blob/master/toy_cifar.py)
+ - [Train CIFAR10 with PyTorch](https://github.com/kuangliu/pytorch-cifar)
 
